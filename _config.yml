@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 name                     : "Abhinav Chatterji"
-description              : "Portfolio for Data Science"
+description              : "Business Analytics candidate @ UC Davis"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Abhinav Chatterji"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Portfolio for Data Scientist"
+  bio              : "Business Analytics candidate @ UC Davis"
   location         : "San Francisco, CA"
   email            : "achatterji@ucdavis.edu"
   links:
