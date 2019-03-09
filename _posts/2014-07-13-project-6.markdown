@@ -5,7 +5,7 @@ date: 2019-01-23
 img: submarine.png
 alt: image-alt
 project-date: January 2019
-#client: Start Bootstrap
+client: Start Bootstrap
 category: Supervised machine learning
 description: Students apply for masters in the US and come in with various profiles. In this <a href="https://colab.research.google.com/drive/1vabyXbKPXRlJYwzJtX2gX_Cw7tSMvRUI">exploratory analysis</a> we identify what levers are important in deciding the weather its an admit or reject
 
