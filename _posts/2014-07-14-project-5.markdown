@@ -7,6 +7,6 @@ alt: image-alt
 project-date: January 2019
 #client: Start Bootstrap
 category: Time series forecasting
-description: Zillow dominates the market of providing real state prices. The data source provides prices of properties in the US. In <a href="https://sellfy.com/p/8Q9P/jV3VZ/">this time series forecasting</a> I combined the available data with the open source library Prophet to predict prices in San Francisco.
+description: Zillow dominates the market of providing real state prices. The data source provides prices of properties in the US. In <a href="https://github.com/abhinav2912/pythonrepo/blob/master/Exploring%20Zillow.ipynb">this time series forecasting</a> I combined the available data with the open source library Prophet to predict prices in San Francisco.
 
 ---
