@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2019-02-14
 img: circus.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: February 2019
+#client: Start Bootstrap
+category: Clustering & principal component analysis
+description: Clustering can be challenging when we need to add business context to it. Data source gives many constituents of food items. Using PCA I reduced it to 1 component in <a href="https://github.com/abhinav2912/pythonrepo/blob/master/Food%20content.ipynb">the analysis</a> and perfromed clustering on this principal component
 
 ---

@@ -7,6 +7,6 @@ alt: image-alt
 project-date: January 2019
 #client: Start Bootstrap
 category: Supervised machine learning
-description: Students apply for masters in the US and come in with various profiles. In this <a href="https://github.com/abhinav2912/pythonrepo/blob/master/College%20admits.ipynb">regression</a> we identify what levers are important in deciding the weather its an admit or reject
+description: Students apply for masters in the US and come in with various profiles. In <a href="https://github.com/abhinav2912/pythonrepo/blob/master/College%20admits.ipynb">this regression</a> I identified what levers are important in deciding the weather its an admit or reject
 
 ---
