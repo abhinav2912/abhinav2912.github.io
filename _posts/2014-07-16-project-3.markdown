@@ -7,6 +7,6 @@ alt: image-alt
 project-date: February 2019
 #client: Start Bootstrap
 category: Clustering & principal component analysis
-description: Clustering can be challenging when we need to add business context to it. Data source gives many constituents of food items. Using PCA I reduced it to 1 component in <a href="https://github.com/abhinav2912/pythonrepo/blob/master/Food%20content.ipynb">the analysis</a> and perfromed clustering on this principal component
+description: Clustering can be challenging when we need to add business context to it. The data source gives many constituents of food items. Using PCA I reduced it to 1 component in <a href="https://github.com/abhinav2912/pythonrepo/blob/master/Food%20content.ipynb">the analysis</a> and performed clustering on this principal component.
 
 ---
