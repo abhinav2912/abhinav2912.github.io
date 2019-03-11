@@ -43,7 +43,7 @@ social:
   #  url: http://twitter.com/jekyllrb
   - title: facebook
     url: https://www.facebook.com/abhinav.chatterji.9
-  -title: linkedin
+  - title: linkedin
     url: https://www.linkedin.com/in/abhinav-chatterji/
 #  - title: bitbucket
 #    url: http://bitbucket.org/jekyll
