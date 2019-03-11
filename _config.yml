@@ -27,8 +27,8 @@ disqus_shortname: Abhinav
 color:
   primary: 2c3e50 #80B3FF
   primary-rgb: "44,62,80" #"128,179,255"
-  secondary: 7b96b1 #FD6E8A
-  secondary-dark: 718eab #A2122F
+  secondary: 364e64 #FD6E8A
+  secondary-dark: 293b4c #A2122F
 
 # Footer settings
 footer:
